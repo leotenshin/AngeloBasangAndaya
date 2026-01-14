@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m Angelo 👋</h2>
 <p align="center">
 An entry-level Data Analyst passionate about transforming raw data into meaningful insights.
-Skilled in SQL, MS Excel, Power BI, and basic Python, with hands-on projects in data cleaning,
+Proficient in SQL, MS Excel, Power BI, and basic Python, with hands-on projects in data cleaning,
 analysis, and visualization to support smart, data-driven decisions.
 </p>
 
