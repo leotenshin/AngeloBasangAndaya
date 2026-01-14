@@ -36,10 +36,11 @@ analysis, and visualization to support smart, data-driven decisions.
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/powerbi/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/power-bi-tutorial/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
